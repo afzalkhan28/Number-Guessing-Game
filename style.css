@@ -1,0 +1,8 @@
+body {
+    background-color: rgb(200, 153, 153);
+    color: rgb(13, 35, 35);
+}
+lable{
+    display: flex;
+    height: 40px;
+}
